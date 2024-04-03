@@ -1,0 +1,5 @@
+These are the results from the experiment:
+
+Found that 10% of people dislike the product
+Experiment successful 50% of the time
+Initial hypothesis proved correct
