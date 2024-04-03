@@ -1,0 +1,5 @@
+My research Idea is how we do we test how much caffine someone can consume to code properly.
+We can test this easily by just giving them some caffine and see how effective they are at coding.
+We would want to make sure they get the same amount of sleep and the same diet everyday.
+We don't want those outside factors to effect our test. Instead we want the amount of caffine to be
+our primary variable.
